@@ -1,0 +1,9 @@
+{
+    "name": "MATLAB Setup",
+    "description": "For setup",
+    "iconName": "matlab",
+    "categories": [
+        "Continuous integration",
+        "MATLAB"
+    ]
+}

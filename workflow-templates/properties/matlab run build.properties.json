@@ -1,0 +1,9 @@
+{
+    "name": "MATLAB Run Build",
+    "description": "For build",
+    "iconName": "matlab",
+    "categories": [
+        "Continuous integration",
+        "MATLAB"
+    ]
+}

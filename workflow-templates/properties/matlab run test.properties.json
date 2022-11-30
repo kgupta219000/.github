@@ -1,6 +1,6 @@
 {
-    "name": "MATLAB",
-    "description": "Lorem Ipsum",
+    "name": "MATLAB Run Test",
+    "description": "For test",
     "iconName": "matlab",
     "categories": [
         "Continuous integration",
